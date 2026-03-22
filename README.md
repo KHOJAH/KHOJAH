@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=KHOJAH&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-## 👨‍💻 About Me
+## About Me
 I am a **Computer Engineer** with a passion for continuous learning and building robust backend systems. I am constantly seeking knowledge and exploring new technologies to improve my development skills. 
 
 - **Currently exploring:** Event-driven architectures and distributed caching.
