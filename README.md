@@ -1,4 +1,4 @@
-# Ramez Khojah
+# Ramez
 
 **Computer Engineer** | Backend Systems & Desktop Application Development  
 
