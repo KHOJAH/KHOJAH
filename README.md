@@ -1,7 +1,6 @@
 # Ramez Khojah
 
 **Computer Engineer** | Backend Systems & Desktop Application Development  
-Amman, Jordan
 
 [![Profile Views](https://komarev.com/ghpvc/?username=KHOJAH&label=Profile%20Views&color=0f172a&style=flat-square)](https://github.com/KHOJAH)
 
