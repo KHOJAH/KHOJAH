@@ -47,15 +47,6 @@ A desktop jigsaw puzzle studio built with Electron, React, and HTML5 Canvas. Fea
 ### [Offliner](https://github.com/KHOJAH/Offliner)
 A desktop media utility for high-performance downloading and audio extraction. Designed for seamless playlist and single-video processing with a clean desktop interface.
 - **Stack:** TypeScript, Desktop Tooling
-
-### [EventDriven-E-Commerce](https://github.com/KHOJAH/EventDriven-E-Commerce)
-An architectural reference project implementing Apache Kafka to demonstrate asynchronous event processing, fault tolerance, and scalable message streaming for e-commerce transactions.
-- **Stack:** Java, Apache Kafka, Event-Driven Architecture
-
-### [Learning-Redis](https://github.com/KHOJAH/Learning-Redis)
-A practical implementation guide exploring high-throughput in-memory caching patterns, TTL strategies, and data structures in backend services.
-- **Stack:** Java, Redis
-
 ---
 
 ## Contact & Profiles
