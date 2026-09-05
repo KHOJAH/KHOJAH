@@ -7,6 +7,14 @@ Amman, Jordan
 
 ---
 
+## Contribution Activity
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/216e39/KHOJAH" alt="KHOJAH's Contribution Grid" width="100%" />
+</p>
+
+---
+
 ## Overview
 
 Computer Engineer focused on building robust, scalable backend architectures and high-performance desktop applications. Passionate about distributed systems, event-driven architecture, and writing clean, maintainable software.
