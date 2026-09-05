@@ -20,8 +20,6 @@ Computer Engineer focused on building robust, scalable backend architectures and
 
 - **Current Focus:** Event-driven microservices, distributed caching, and algorithmic UI systems.
 - **Engineering Principles:** Code simplicity, loose coupling, and measurable performance.
-- **Location:** Jordan
-
 ---
 
 ## Technical Skills
